@@ -1,5 +1,5 @@
 # Data Files
-Iris.csv
+artifacts/Iris.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
